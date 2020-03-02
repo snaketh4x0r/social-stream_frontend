@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACO,eACH,CAEA,KACI,WAAY,CACZ,kBACJ","file":"main.1c668ba5.chunk.css","sourcesContent":["main{\n       margin-top: 60px;\n    }\n\n    form {\n        width: 350px;\n        margin-bottom: 10px;\n    }\n"]}
